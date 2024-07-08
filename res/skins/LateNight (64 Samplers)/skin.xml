@@ -380,6 +380,319 @@
       </Children>
     </SingletonDefinition>
 
+    <SingletonDefinition>
+      <ObjectName>Deck5_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">5</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck6_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">6</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck7_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">7</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck8_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">8</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+      <SingletonDefinition>
+      <ObjectName>Deck9_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">9</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck10_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">10</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck11_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">11</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck12_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">12</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck13_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">13</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck14_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">14</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck15_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">15</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck16_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">16</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <!-- <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition>
+
+    <SingletonDefinition>
+      <ObjectName>Deck4_Src</ObjectName>
+      <Children>
+      <Template src="skins:LateNight/decks/deck.xml">
+        <SetVariable name="ChanNum">4</SetVariable>
+        <SetVariable name="DeckGroup">34</SetVariable>
+        <SetVariable name="SignalColor"><Variable name="SignalColor_34"/></SetVariable>
+        <SetVariable name="BgColor"><Variable name="BgColorOverview_34"/></SetVariable>
+      </Template>
+      </Children>
+    </SingletonDefinition> -->
+    
+
     <Template src="skins:LateNight/mixer/singletons.xml"/>
 
     <SingletonDefinition>
@@ -440,17 +753,62 @@
 
                     <WidgetGroup>
                       <ObjectName>DecksMixerContainer</ObjectName>
-                      <Layout>vertical</Layout>
+                      <Layout>grid</Layout>
+                      <RowCount>4</RowCount>
+                      <ColumnCount>4</ColumnCount>
                       <SizePolicy>me,me</SizePolicy>
                       <Children>
-                        <WidgetGroup><!-- Top spacer when waveforms are hidden -->
-                          <ObjectName>ToolbarDeckSpacer</ObjectName>
-                          <Connection>
-                            <ConfigKey persist="true">[Skin],show_waveforms</ConfigKey>
-                            <Transform><Not/></Transform>
-                            <BindProperty>visible</BindProperty>
-                          </Connection>
-                        </WidgetGroup><!-- ToolbarDeckSpacer -->
+                        <SingletonContainer row="0" column="0">
+                          <ObjectName>Deck1_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="0" column="1">
+                          <ObjectName>Deck2_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="0" column="2">
+                          <ObjectName>Deck3_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="0" column="3">
+                          <ObjectName>Deck4_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="1" column="0">
+                          <ObjectName>Deck5_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="1" column="1">
+                          <ObjectName>Deck6_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="1" column="2">
+                          <ObjectName>Deck7_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="1" column="3">
+                          <ObjectName>Deck8_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="2" column="0">
+                          <ObjectName>Deck9_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="2" column="1">
+                          <ObjectName>Deck10_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="2" column="2">
+                          <ObjectName>Deck11_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="2" column="3">
+                          <ObjectName>Deck12_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="3" column="0">
+                          <ObjectName>Deck13_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="3" column="1">
+                          <ObjectName>Deck14_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="3" column="2">
+                          <ObjectName>Deck15_Src</ObjectName>
+                        </SingletonContainer>
+                        <SingletonContainer row="3" column="3">
+                          <ObjectName>Deck16_Src</ObjectName>
+                        </SingletonContainer>
+                      </Children>
+                    </WidgetGroup>
+
 
                         <WidgetGroup>
                           <Layout>horizontal</Layout>

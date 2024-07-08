@@ -299,11 +299,11 @@ unsigned int PlayerManager::numPreviewDecks() {
 
 void PlayerManager::slotChangeNumDecks(double v) {
     const auto locker = lockMutex(&m_mutex);
-    int num = (int)v;
+    int num =  static_cast<int>(v);
 
-    VERIFY_OR_DEBUG_ASSERT(num <= kMaxNumberOfDecks) {
+    VERIFY_OR_DEBUG_ASSERT(num <= 16) {
         qWarning() << "Number of decks exceeds the maximum we expect."
-                   << num << "vs" << kMaxNumberOfDecks
+                   << num << "vs" << 16
                    << " Refusing to add another deck. Please update util/defs.h";
         return;
     }
